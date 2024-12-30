@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  height: 100vh;
+  background-color: #fff;
+}
+
+* {
+  border: 1px solid black;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex1 {
+  flex-direction: column;
+}
+
+.textc {
+  text-align: center;
+}
+
+.grid {
+  display: grid;
+}
